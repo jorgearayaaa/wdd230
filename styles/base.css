@@ -1,8 +1,10 @@
 body {
-    font-family: 'Roboto', sans-serif;
+  font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+  color-scheme: darkred;
 }
 
-header, main, footer {
+header, main, nav, footer {
     max-width: 640px;
     margin: 1rem auto;
     border: 1px solid #bbb;
